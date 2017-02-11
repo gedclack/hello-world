@@ -1,2 +1,4 @@
 # hello-world
-my first repo
+GedClack here,
+
+Hi guys, I am new to GitHub world !!
